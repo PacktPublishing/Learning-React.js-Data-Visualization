@@ -1,20 +1,17 @@
-# Introducing Rails 5: Learning Web Development the Ruby Way [Video]
-This is the code repository for [Introducing Rails 5: Learning Web Development the Ruby Way [Video]](https://www.packtpub.com/application-development/introducing-rails-5-learning-web-development-ruby-way-video?utm_source=github&utm_medium=repository&utm_campaign=9781785884733), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Learning React.js Data Visualization [Video]
+This is the code repository for [Learning React.js Data Visualization [Video]](https://www.packtpub.com/web-development/learning-reactjs-data-visualization-video?utm_source=github&utm_medium=repository&utm_campaign=9781787285750), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-Ruby on Rails is a powerful web application framework action packed, with hordes of gems to create a stress-free and complete developing experience. Ruby reinforces the "More with Less" approach with its elegant and clean code, proving to be a stalwart alternative to traditional static languages. Rails 5 introduces a plethora of features and built-in libraries to keep your applications up to date with the modern web.
-Introducing to Rails 5 dives deep into creating applications with the newly built in libraries and gems this framework has to offer. 
-Before you get hands on with coding, the first section explores the changes and deprecations and introduces you to what’s new in RoR5. We then learn the use of Action cable to access Web sockets, which is a built in library to add real-time features to your applications. 
-We will create our first chatroom with the all in one ‘rails generator’ command to generate all required files for our chat room system including password encryption, session controllers and the main navigation. We will learn to use Rails as a JSON-API Backend that can be consumed by different clients.
-The course also covers how Turbolinks optimizes page loading and renders templates independently of controllers.
+React is an incredibly popular part of modern full stack web development, and is a keystone of fluid SPAs (single page applications). It is capable of rendering data reactively onto the web, enabling users to interact with it and see the results in real time. Using JSON as the data format, this course will show you how to ingest your data and display it on the web using a variety of techniques, such as charts and grids. It will run through the logic process, meaning that you will be able to take these skills and apply them in your own projects. Along the way, you will also learn more about the new ES6 language and how it can benefit your React skills, and how to create React controllers.Beginning with gaining an understanding of JSON and how to create JSON files, then how to load them using webpack and ES6 and integrate them into a React component. We will then examine different data types, and how to move data between them in order to create a reactive map. Next, we will use ChartJS to display data in various chart forms, and finally we will look at how to load data dynamically from a MongoDB database and display it in our React component.
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Learn how to use ActionCable to work with WebSockets 
-<LI>Implement the newest version of Turbolinks in your application to optimize page loading. 
-<LI>Create a chatroom which includes password encryption, session controllers and broadcasting services 
-<LI>Learn how to configure chat.coffee with ActionCable to transmit data through chat channels 
-<LI>Test and deploy your application to the latest version of Rails. </LI></UL></DIV>
+<LI>Understand how different types of data can be ingested into React 
+<LI>Create different visualizations from your data (charts, grids, maps, and more) 
+<LI>Find out how to create React controllers 
+<LI>Integrate JSON data into your react component using JSX spread and React props 
+<LI>Enable react to be prepared for changes within the component 
+<LI>Create data driven charts </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
@@ -25,9 +22,9 @@ This course has the following software requirements:<br/>
 NA
 
 ## Related Products
-* [AWS Administration - The Definitive Course [Video]]()
-
-* [Ethical Hacking for the Everyday Developer [Video]]()
+* [Data Storytelling with Power BI [Video]]()
 
 * [Hands-On Web Development with Hyperapp V2 [Video]]()
+
+* [Data Storytelling with Qlik Sense [Video]]()
 
